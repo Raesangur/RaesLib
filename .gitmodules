@@ -1,0 +1,3 @@
+[submodule "Altium-Templates"]
+	path = Altium-Templates
+	url = https://github.com/FireDeveloper/Altium-Templates.git
